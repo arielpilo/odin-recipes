@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: purple;
+    color: wheat;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1,
+h3 {
+    text-decoration: underline;
+}
+
+#link-color {
+    color: yellowgreen;
+    font-weight: bold;
+}

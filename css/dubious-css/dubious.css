@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, sans-serif;
+    color: white;
+    background-color: rgb(3, 153, 41);
+    font-size: 24px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.color-link {
+    color: rgb(162, 162, 223);
+    font-weight: bold;
+}
+
+h1,
+h2 {
+    text-decoration: underline;
+}

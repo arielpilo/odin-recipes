@@ -1,0 +1,17 @@
+body {
+    font-size: 24px;
+    text-align: center;
+    list-style-position: inside;
+    background-color: purple;
+    color: yellowgreen;
+}
+
+.links {
+    color: rgb(181, 186, 181);
+    font-size: 22px;
+}
+
+h1,
+h3 {
+    text-decoration: underline;
+}

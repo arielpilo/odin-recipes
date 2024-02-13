@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    color: rgb(4, 4, 4);
+    text-align: center;
+    list-style-position: inside;
+    font-size: 24px;
+}
+
+.links {
+    color: #c5d4ff;
+}
+
+h1,
+h3 {
+    text-decoration: underline;
+}

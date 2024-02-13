@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: rgb(154, 255, 154);
+    text-align: center;
+    list-style-position: inside;
+}
+
+h3,
+h1 {
+    text-decoration: underline;
+}
