@@ -1,0 +1,18 @@
+@font-face {
+    font-family: HyliaSerif;
+    src: url(../fonts/HyliaSerifBeta-Regular.otf);
+}
+
+.headings {
+    font-family: 'HyliaSerif';
+    color: white;
+    font-weight: lighter;
+}
+
+#background {
+    background-color: rgb(145, 145, 145);
+}
+
+.text {
+    color: white;
+}
