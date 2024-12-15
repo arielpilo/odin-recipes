@@ -10,9 +10,10 @@
 }
 
 #background {
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(1, 97, 1);
 }
 
 .text {
     color: white;
+    font-weight: lighter;
 }
