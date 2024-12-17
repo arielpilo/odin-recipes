@@ -1,0 +1,25 @@
+@font-face {
+    font-family: HyliaSerif;
+    src: url(../../fonts/Hylia.otf);
+}
+
+.heading {
+    font-family: HyliaSerif;
+    font-weight: 10;
+    text-decoration: underline;
+    color: white;
+}
+
+#background {
+    background-color: rgb(37, 49, 158);
+}
+
+.text {
+    color: rgb(230, 230, 230);
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.link {
+    font-weight: bold;
+}   
